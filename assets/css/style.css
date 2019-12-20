@@ -4,8 +4,7 @@ body {
 }
 
 .jumbotron {
-background-color: rgb(24, 23, 23);
-
+    background-color: rgb(24, 23, 23);
 }
 
 .container {
@@ -23,5 +22,13 @@ form {
     background-color: rgb(168, 163, 163);
     margin-right: 10px;
     margin-left: 10px;
+    color: black;
+    padding-left: 10px;
+}
 
+.results {
+    margin: 10px;
+    border: solid 2px black;
+    padding: 10px;
+    color: black;
 }
