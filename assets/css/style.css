@@ -12,6 +12,14 @@ background-color: rgb(24, 23, 23);
     text-align: center;
 }
 
-.form-group {
-    margin: 10px;
+form {
+    margin: 0, 10px, 10px, 10px;
+    border: solid 2px black;
+    padding: 10px;
+    color: black;
+}
+
+.form-header {
+    background-color: rgb(168, 163, 163);
+    margin: 0;
 }
